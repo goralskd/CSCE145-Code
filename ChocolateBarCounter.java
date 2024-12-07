@@ -2,7 +2,7 @@ package lab5;
 
 import java.util.Scanner;
 
-public class Lab05 {
+public class ChocolateBarCounter {
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 	        
